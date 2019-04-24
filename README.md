@@ -1,4 +1,4 @@
-Bitcoin ABC
+Bitcoin ABC Satoshi Vision
 ===========
 
 https://bitcoinabc.org
